@@ -61,7 +61,7 @@ To install NumPy:
 ```bash
 pip install numpy
 
-👨‍💻 Geliştirici
+👨‍💻 Developer
 Emre Üstübeç
 📧 emresb1999@gmail.com
 📌 GitHub: @UstubecEmre
